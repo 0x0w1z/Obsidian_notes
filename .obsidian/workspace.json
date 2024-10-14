@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "da6e280c3d34c4ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b2c0cd24b120af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c4e65037a1e783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PortSwigger_Academy/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "825bb46d7ab3e06d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5f5df5a8033768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eabacaf0d82e037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03df95b87853f2c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f4a3ae697d4e646",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0b96b1fd83f88be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "de288d1cbb76a6e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8fc65ca2297895",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "baf5c5fe2e8ca88c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PortSwigger_Academy/SQL Injection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cef744e5eb3ddde6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PortSwigger_Academy/SQL Injection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8848e83b9f530e60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PortSwigger_Academy/SQL Injection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "17c4e65037a1e783",
+  "lastOpenFiles": [
+    "Pasted image 20241013003349.png",
+    "Pasted image 20241013000627.png",
+    "Pasted image 20241013000412.png",
+    "PortSwigger_Academy/SQL Injection.md",
+    "PortSwigger_Academy",
+    "Nca-created-ctfs/Xclusive Headers.md",
+    "Nca-created-ctfs/I <3 Charmander.md",
+    "Javascripts/Objects.md",
+    "Javascripts/Array.md",
+    "Nca-created-ctfs/Pasted image 20240928210840.png",
+    "Nca-created-ctfs/Pasted image 20240927180527.png",
+    "Nca-created-ctfs/5.png",
+    "Nca-created-ctfs/3.png",
+    "Bug Hunting.md",
+    "Pokemon.md",
+    "Javascripts/Pasted image 20241008201943.png",
+    "Javascripts/Strings Method.md",
+    "Nca-created-ctfs/Pasted image 20241001195810.png",
+    "Nca-created-ctfs/6.png",
+    "Nca-created-ctfs/4.png",
+    "Javascripts/Conditionals.md",
+    "Javascripts/Primitive data types.md",
+    "Javascripts",
+    "Nca-created-ctfs",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md"
+  ]
+}
